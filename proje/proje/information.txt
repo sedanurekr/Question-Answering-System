@@ -1,0 +1,18 @@
+Basaksehir,Abdullah Avcý,Turuncu-Lacivert,1990,BASAKSEHÝR FATÝH TERÝM STADYUMU,0
+Galatasaray,Fatih Terim,Sarý-Kýrmýzý,1905,TÜRK TELEKOM,22
+Besiktas,Þenol Güneþ,Siyah-Beyaz,1903,VODAFONE PARK,15
+Trabzonspor,Ünal Karaman,Bordo-Mavi,1967,MEDICAL PARK STADYUMU,6
+Konyaspor,Aykut Kocaman,Yeþil-Beyaz,1922,KONYA BÜYÜKÞEHÝR BELEDÝYE STADYUMU,0
+Antalyaspor,Bülent Korkmaz,Kýrmýzý-Beyaz,1966,ANTALYA STADYUMU,0
+Rizespor,Okan Buruk,Yeþil-Mavi,1953,ÇAYKUR Didi Stadyumu,0
+Malatyaspor,Erol Bulut,Sarý-Kýrmýzý,1986,MALATYA STADI,0
+Sivasspor,Rýza Çalýmbay,Kýrmýzý-Beyaz,1967,YENÝ 4 EYLÜL STADI,0
+Kasýmpasa,Mustafa Denizli,Laciver-Beyaz,1921,RECEP TAYYÝP ERDOÐAN STADYUMU,0
+Alanyaspor,Sergen Yalçýn,Turuncu-Yeþil,1948,BAHÇEÞEHÝR OKULLARI STADYUMU,0
+Kayserispor,Hikmet Karaman,Sarý-Kýrmýzý,1966,KADÝR HAS STADYUMU,0
+Fenerbahce,Ersun Yanal,Sarý-Lacivert,1907,ÜLKER STADYUMU,19
+Ankaragucu,Mustafa Kaplan,Sarý-Lacivert,1910,Eryaman Stadyumu,0
+Bursaspor,Mesut Bakkal,Yeþil-Beyaz,1963,TÝMSAH ARENA,1
+Goztepe,Tamer Tuna,Sarý-Kýrmýzý,1925,Bornova Stadyumu,0
+Erzurumspor,Hamza Hamzaoðlu,Beyaz-Mavi,2005,Erzurum Kazým Karabekir Stadyumu,0
+Akhisar,Cem Kavçak,Yeþil-Siyah,1970,Spor Toto Akhisar Stadyumu,0
